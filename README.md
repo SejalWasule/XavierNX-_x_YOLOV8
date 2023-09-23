@@ -1,7 +1,9 @@
 # XavierNX-_x_YOLOV8
 # Autonomous Vehicle Object Detection with Jetson Xavier NX
 
-![Autonomous Vehicle Object Detection](autonomous_vehicle.jpg)
+
+![RPredict](https://github.com/SejalWasule/XavierNX-_x_YOLOV8/assets/102143995/a3556e0e-5242-4851-882f-e0b46c146fe7)
+
 
 ## Overview
 
