@@ -27,7 +27,7 @@ Our investigation suggests that YOLO v8 can be successfully implemented on Jetso
 
 To get started with this project:
 
-1. Clone this repository to your Jetson Xavier NX device.
+1. Clone this repository to your Jetson Xavier NX device. (!pip install -r requirements.txt)
 2. Follow the provided instructions to set up the YOLO v8 model for object detection.
 3. Experiment with real-world AV scenarios and data.
 
