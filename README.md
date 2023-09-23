@@ -39,6 +39,10 @@ This project is licensed under the [MIT License](LICENSE). Feel free to use and 
 
 We welcome contributions and collaboration to further enhance the capabilities of object detection in autonomous vehicles. Please open issues or pull requests for improvements or research findings.
 
+## Credits
+
+We have used ultralytics docs for the Reference Here in this project
+
 ## Contact
 
 If you have questions or need assistance, please don't hesitate to reach out to us.
